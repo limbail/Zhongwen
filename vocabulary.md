@@ -1,4 +1,5 @@
-| Syntax      | Description | Test Text     |
-|    :----:   |    :----:   |    :----:     |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+|       Hanzi       |       Pingyin     |       English     |       Spanish     |
+|       :----:      |       :----:      |    :----:         |                   |
+|       Header      |       Title       | Here's this       |                   |
+||                   |                   |
+
