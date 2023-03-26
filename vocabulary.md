@@ -1,27 +1,3 @@
-
-<style>
-table th:first-of-type {
-    width: 5%;
-}
-table th:nth-of-type(2) {
-    width: 5%;
-}
-table th:nth-of-type(3) {
-    width: 5%;
-}
-table th:nth-of-type(4) {
-    width: 5%;
-}
-table th:nth-of-type(5) {
-    width: 30%;
-}
-table th:nth-of-type(6) {
-    width: 20%;
-}
-table th:nth-of-type(7) {
-    width: 30%;
-}
-</style>
 |     | Chinese   | Pinyin      | English              | Spanish                      | Frase en español                          | 中文短语      | Pinyin duǎnyǔ                       |
 |----:|:----------|:------------|:---------------------|:-----------------------------|:------------------------------------------|:----------|:------------------------------------|
 |   0 | nan       | nan         | nan                  | nan                          | nan                                       | nan       | nan                                 |
