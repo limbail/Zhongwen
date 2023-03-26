@@ -7,8 +7,8 @@
 | 她         | tā          | she, her             | Ella ella                    | Ella ahora está estudiando                | 她现在在读书     | Tā xiànzài zài dúshū                  |
 | 这 (这儿)    | zhè ( zhèr) | this (here)          | esto (aqui)                  | Esta fórmula no se usa aquí               | 这个公式不能用在这儿 | zhè gè gōng shì bù néng yòng zài zhèr |
 | 那 (那儿)    | nà (nàr)    | that (there)         | que (ahí)                    | No necesitamos pasar por allí             | 我们不用经过那儿   | wǒ men bú yòng jīng guò nàr           |
-| 哪         | nǎ          | which                | cual                         | nan                                       | nan        | nan                                   |
-| 哪儿        | nǎr         | where                | dónde                        | nan                                       | nan        | nan                                   |
+| 哪         | nǎ          | which                | cual                         | ¿qué año?                                 | 哪一年        | nǎ yì nián                            |
+| 哪儿        | nǎr         | where                | dónde                        | ¿a donde vamos?                           | 我们去哪儿?     | Wǒmen qù nǎ'er?                       |
 | 谁         | shéi        | who                  | Quien                        | nan                                       | nan        | nan                                   |
 | 什么        | shénme      | what, why            | Qué? Por qué                 | nan                                       | nan        | nan                                   |
 | 多少        | duōshǎo     | how many, how much   | cuantos cuanto               | nan                                       | nan        | nan                                   |
