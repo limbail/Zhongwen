@@ -1,5 +1,7 @@
 # Zhongwen
 
+https://github.com/limbail/Zhongwen/blob/main/vocabulary.md
+
 Agregaré todo lo que aprenda en chino a este repositorio para que sea útil para el resto del mundo.
 
 Yo lo traduciré a:
