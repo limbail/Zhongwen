@@ -9,8 +9,9 @@ df = df.dropna(how='all')
 df = df.reset_index(drop=True)
 md_table = df.to_markdown(index=False)
 #print(md_table)
-t_content=df.to_markdown()
+
+
 f = open("vocabulary.md", "a")
-f.write(t_content)
+f.write(md_table)
 f.close()
 
